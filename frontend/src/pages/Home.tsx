@@ -23,7 +23,7 @@ const Home: React.FC = () => {
           <LanguageSwitcher />
         </div>
 
-        {/* معرفی اصلی پروژه DIG / PiDao */}
+        {/* معرفی اصلی پروژه Night protocol / Night grid */}
         <Hero />
 
         {/* پنل ورود / پرداخت Pi */}
@@ -31,7 +31,7 @@ const Home: React.FC = () => {
           <PiPaymentPanel />
         </section>
 
-        {/* زیرساخت‌ها و ویژگی‌های DIG */}
+        {/* زیرساخت‌ها و ویژگی‌های Night ecosystem*/}
         <Features />
 
         {/* مسیر راه پروژه */}
